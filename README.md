@@ -18,3 +18,4 @@ métricas, monitoramento, banco de dados, gerando imagem Docker da sua aplicaç�
 7. Spring Boot 2 Essentials 07 - Método GET parte 1
 8. Spring Boot 2 Essentials 08 - Método GET parte 2
 9. Spring Boot 2 Essentials 09 - Método POST
+10. Spring Boot 2 Essentials 10 - Método DELETE
