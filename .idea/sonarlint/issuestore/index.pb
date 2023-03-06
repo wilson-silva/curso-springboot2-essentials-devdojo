@@ -7,3 +7,5 @@ Fsrc/main/java/academy/devdojo/springboot2essentials/util/DateUtil.java,f\0\f04
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 u
 Esrc/main/java/academy/devdojo/springboot2essentials/domain/Anime.java,8\d\8d8b60ed4020b7400cc158e2caac12bdb88a27dc
+ƒ
+Ssrc/main/java/academy/devdojo/springboot2essentials/repository/AnimeRepository.java,5\7\575491c187fed84a7b45376b5bdd3c6774d1c810
