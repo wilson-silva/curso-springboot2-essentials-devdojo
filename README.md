@@ -20,3 +20,4 @@ métricas, monitoramento, banco de dados, gerando imagem Docker da sua aplicaç�
 9. Spring Boot 2 Essentials 09 - Método POST
 10. Spring Boot 2 Essentials 10 - Método DELETE
 11. Spring Boot 2 Essentials 11 - Método PUT
+12. Spring Boot 2 Essentials 12 - Instalando Docker e executando container MySQL
