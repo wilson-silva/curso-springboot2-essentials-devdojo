@@ -22,3 +22,4 @@ métricas, monitoramento, banco de dados, gerando imagem Docker da sua aplicaç�
 11. Spring Boot 2 Essentials 11 - Método PUT
 12. Spring Boot 2 Essentials 12 - Instalando Docker e executando container MySQL
 13. Spring Boot 2 Essentials 13 - Spring Data JPA pt 01
+14. Spring Boot 2 Essentials 14 - Spring Data JPA pt 02
