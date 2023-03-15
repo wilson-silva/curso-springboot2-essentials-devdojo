@@ -15,11 +15,12 @@ métricas, monitoramento, banco de dados, gerando imagem Docker da sua aplicaç�
 4. @Component, @Autowired, @SpringBootApplication
 5. Hot Swap com Spring Boot DevTools
 6. Gerando projeto com start.spring.io
-7. Spring Boot 2 Essentials 07 - Método GET parte 1
-8. Spring Boot 2 Essentials 08 - Método GET parte 2
-9. Spring Boot 2 Essentials 09 - Método POST
-10. Spring Boot 2 Essentials 10 - Método DELETE
-11. Spring Boot 2 Essentials 11 - Método PUT
-12. Spring Boot 2 Essentials 12 - Instalando Docker e executando container MySQL
-13. Spring Boot 2 Essentials 13 - Spring Data JPA pt 01
-14. Spring Boot 2 Essentials 14 - Spring Data JPA pt 02
+7. Método GET parte 1
+8. Método GET parte 2
+9. Método POST
+10. Método DELETE
+11. Método PUT
+12. Instalando Docker e executando container MySQL
+13. Spring Data JPA pt 01
+14. Spring Data JPA pt 02
+15. Framework de Mapeamento MapStruct
