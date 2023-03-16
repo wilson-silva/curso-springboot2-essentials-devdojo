@@ -25,3 +25,4 @@ métricas, monitoramento, banco de dados, gerando imagem Docker da sua aplicaç�
 14. Spring Data JPA pt 02
 15. Framework de Mapeamento MapStruct
 16. Request Params
+17. Exceções Customizadas
