@@ -26,3 +26,4 @@ métricas, monitoramento, banco de dados, gerando imagem Docker da sua aplicaç�
 15. Framework de Mapeamento MapStruct
 16. Request Params
 17. Exceções Customizadas
+18. Handler Global
