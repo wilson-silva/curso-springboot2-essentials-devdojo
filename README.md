@@ -28,3 +28,4 @@ métricas, monitoramento, banco de dados, gerando imagem Docker da sua aplicaç�
 17. Exceções Customizadas
 18. Handler Global
 19. Transações
+20. Validação de campos

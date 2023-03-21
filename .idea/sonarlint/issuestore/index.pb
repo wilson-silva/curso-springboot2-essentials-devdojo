@@ -9,27 +9,11 @@ n
 >.idea/libraries/Maven__org_mapstruct_mapstruct_1_5_3_Final.xml,8\5\855fd9fb9e01e3d84386d2ca848e2a66aba01ff7
 w
 G.idea/sonarlint/issuestore/b/8/b86da457c516d5f3bc24f1692487cb9f8b3a595b,5\b\5b392cf1995c4deafeacb6a28513eaee199c8d1d
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 É
 Ssrc/main/java/academy/devdojo/springboot2essentials/repository/AnimeRepository.java,5\7\575491c187fed84a7b45376b5bdd3c6774d1c810
-u
-Esrc/main/java/academy/devdojo/springboot2essentials/domain/Anime.java,8\d\8d8b60ed4020b7400cc158e2caac12bdb88a27dc
-Ü
-Vsrc/main/java/academy/devdojo/springboot2essentials/requests/AnimePostRequestBody.java,2\1\2151ce14b5944e0abe0d7ebd999e38f8d72566a3
-{
-Ksrc/main/java/academy/devdojo/springboot2essentials/mapper/AnimeMapper.java,3\3\33b72e278b8d19333e2b8ffd992ec3361e1b44f5
 ç
 ]src/main/java/academy/devdojo/springboot2essentials/exception/BadRequestExceptionDetails.java,9\4\94a8e8d8003756e19a7b3bdb7e1d397700a71f99
 Ü
 Vsrc/main/java/academy/devdojo/springboot2essentials/exception/BadRequestException.java,1\7\173235533768aae739f30328a83f607a8798daf4
 Ö
 Usrc/main/java/academy/devdojo/springboot2essentials/handler/restExceptionHandler.java,5\8\58e41ae8e3309a8d3953be838de4a6d7db7437d0
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-É
-Ssrc/main/java/academy/devdojo/springboot2essentials/controller/AnimeController.java,b\6\b694d4f7fe46e294d4f26dc39a0881672ce1d28a
-â
-Ysrc/main/java/academy/devdojo/springboot2essentials/Springboot2EssentialsApplication.java,b\8\b86da457c516d5f3bc24f1692487cb9f8b3a595b
-}
-Msrc/main/java/academy/devdojo/springboot2essentials/service/AnimeService.java,8\b\8b0e2e9554e6991f7c5c4a874959cb5ef5c94dec
