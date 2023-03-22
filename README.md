@@ -29,3 +29,4 @@ métricas, monitoramento, banco de dados, gerando imagem Docker da sua aplicaç�
 18. Handler Global
 19. Transações
 20. Validação de campos
+21. Handler para validação de campos
