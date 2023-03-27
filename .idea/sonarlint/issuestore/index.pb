@@ -35,5 +35,7 @@ Ssrc/main/java/academy/devdojo/springboot2essentials/exception/ExceptionDetails.
 Usrc/main/java/academy/devdojo/springboot2essentials/handler/restExceptionHandler.java,5\8\58e41ae8e3309a8d3953be838de4a6d7db7437d0
 †
 Vsrc/main/java/academy/devdojo/springboot2essentials/requests/AnimePostRequestBody.java,2\1\2151ce14b5944e0abe0d7ebd999e38f8d72566a3
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
