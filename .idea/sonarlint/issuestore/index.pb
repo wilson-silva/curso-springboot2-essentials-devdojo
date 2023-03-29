@@ -19,3 +19,9 @@ Ysrc/main/java/academy/devdojo/springboot2essentials/Springboot2EssentialsApplic
 Ksrc/main/java/academy/devdojo/springboot2essentials/mapper/AnimeMapper.java,3\3\33b72e278b8d19333e2b8ffd992ec3361e1b44f5
 B
 docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+Ü
+Vsrc/main/java/academy/devdojo/springboot2essentials/exception/BadRequestException.java,1\7\173235533768aae739f30328a83f607a8798daf4
+ç
+]src/main/java/academy/devdojo/springboot2essentials/exception/BadRequestExceptionDetails.java,9\4\94a8e8d8003756e19a7b3bdb7e1d397700a71f99
+É
+Ssrc/main/java/academy/devdojo/springboot2essentials/exception/ExceptionDetails.java,c\2\c2646fade0cbf155910f7f0db1a38baaeb6aa12e
