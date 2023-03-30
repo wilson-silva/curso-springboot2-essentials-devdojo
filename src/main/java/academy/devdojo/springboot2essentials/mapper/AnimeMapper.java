@@ -12,7 +12,7 @@ public abstract class AnimeMapper {
 
     public static final AnimeMapper INSTANCE = Mappers.getMapper(AnimeMapper.class);
 
-    @Mapping(source = "namePost", target = "name")
+    @Mapping(source = "namePost", target = "nome")
     public abstract Anime toAnime(AnimePostRequestBody animePostRequestBody);
 
     public abstract Anime toAnime(AnimePutRequestBody animePutRequestBody);

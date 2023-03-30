@@ -25,8 +25,8 @@ public class AnimeService {
     }
     //------------------------------------------------------------------------------------------
 
-    public List<Anime> findByName(String name){
-        return animeRepository.findByName(name);
+    public List<Anime> findByName(String nome){
+        return animeRepository.findByNome(nome);
     }
     //------------------------------------------------------------------------------------------
     public Anime findByIdOrThrowBadRequestException(Long id) {

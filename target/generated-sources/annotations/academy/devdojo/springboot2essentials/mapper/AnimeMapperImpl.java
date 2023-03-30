@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2023-03-28T15:23:53-0300",
+    date = "2023-03-30T13:10:16-0300",
     comments = "version: 1.5.3.Final, compiler: javac, environment: Java 11.0.17 (Eclipse Adoptium)"
 )
 @Component
@@ -22,7 +22,7 @@ public class AnimeMapperImpl extends AnimeMapper {
 
         Anime anime = new Anime();
 
-        anime.setName( animePostRequestBody.getNamePost() );
+        anime.setNome( animePostRequestBody.getNamePost() );
 
         return anime;
     }
@@ -36,7 +36,7 @@ public class AnimeMapperImpl extends AnimeMapper {
         Anime anime = new Anime();
 
         anime.setId( animePutRequestBody.getId() );
-        anime.setName( animePutRequestBody.getName() );
+        anime.setNome( animePutRequestBody.getNome() );
 
         return anime;
     }
