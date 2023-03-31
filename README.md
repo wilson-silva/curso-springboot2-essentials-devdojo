@@ -33,3 +33,4 @@ métricas, monitoramento, banco de dados, gerando imagem Docker da sua aplicaç�
 22. Sobrescrevendo handler do Spring
 23. Paginação
 24. WebMvcConfigurer
+25. Sorting, Log SQL
